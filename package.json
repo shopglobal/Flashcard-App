@@ -1,0 +1,24 @@
+{
+  "name": "flashcardJs",
+  "version": "1.0.9",
+  "description": "A Basic CLI Flashcard tool.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopglobal/flashcard.git"
+  },
+  "author": "Mark Allen Evans <evansmark.work@gmail.com> (https://github.com/shopglobal)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shopglobal/flashcard/issues"
+  },
+  "homepage": "https://github.com/shopglobal/flashcard#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.1.1",
+    "moment": "^2.18.1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "advancedDeck": [{
+        "front": "WHAT IS THE COMMAND TO INSTALL A NODE PACKAGE?",
+        "back": "NPM INSTALL"
+    }, {
+        "front": "WHAT IS THE COMMAND TO LOCATE GLOBALLY INSTALLED NPM PACKAGES?",
+        "back": "NPM LIST -G --DEPTH=0"
+    }, {
+        "front": "WHAT IS THE COMMAND TO CREATE A PACKAGE.JSON",
+        "back": "NPM INIT"
+    }, {
+        "front": "HOW DO YOU ADD A PACKAGE TO YOUR PACKAGE.JSON",
+        "back": "NPM INSTALL --SAVE"
+    }, {
+        "front": "IN JAVASCRIPT, WHAT DO YOU CALL A FUNCTION DEFINED IN AN OBJECT?",
+        "back": "METHOD"
+    }, {
+        "front": "FUNCTIONS THAT ARE WRITTEN TO BE USED FOR INITIALIZING A NEWLY CREATED OBJECT ARE CALLED WHAT?",
+        "back": "CONSTRUCTORS"
+    }, {
+        "front": "WHAT IS THE JAVASCRIPT KEYWORD THAT IS AN OBJECT REPRESENTING THE ABSENCE OF A VALUE?",
+        "back": "NULL"
+    }, {
+        "front": "ANY JAVASCRIPT TYPE THAT CANNOT BE CHANGED (NUMBERS, BOOLEANS, NULL, UNDEFINED AND STRINGS) IS CONSIDERED TO BE WHAT?",
+        "back": "IMMUTABLE"
+    }, {
+        "front": "THE PROCESS BY WHICH JAVASCRIPT LOADS VARIABLE AND FUNCTION DECLARATIONS INTO MEMORY DURING THE COMPILE PHASE IS KNOWN AS WHAT?",
+        "back": "HOISTING"
+    }, {
+        "front": "WHAT JAVASCRIPT KEYWORD IS A REFERENCE TO THE OBJECT THAT A FUNCTION IS A METHOD OF?",
+        "back": "THIS"
+    }, {
+        "front": "WHAT IS THE COMMAND TO INSTALL A NODE PACKAGE?",
+        "back": "NPM INSTALL"
+    }, {
+        "front": "WHAT IS THE COMMAND TO LOCATE GLOBALLY INSTALLED NPM PACKAGES?",
+        "back": "NPM LIST -G --DEPTH=0"
+    }, {
+        "front": "WHAT IS THE COMMAND TO CREATE A PACKAGE.JSON",
+        "back": "NPM INIT"
+    }, {
+        "front": "HOW DO YOU ADD A PACKAGE TO YOUR PACKAGE.JSON",
+        "back": "NPM INSTALL --SAVE"
+    }]
+}
