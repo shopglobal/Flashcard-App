@@ -2,6 +2,9 @@
 keys.*
 key.*
 spotifywebKeys.*
+ApiCard.js
+api.json
+apis.json
 
 # Published folders without dependancies
 published/

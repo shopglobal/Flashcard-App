@@ -18,10 +18,7 @@
         "front": "Thomas ... is credited with the invention of the incandescent lightbulb.",
         "back": "Edison"
     }, {
-        "front": "THIS IS A QUESTION",
-        "back": "THIS IS THE ANSWER"
-    }, {
         "front": "THE BASIC DECK WORKS?",
-        "back": "YES"
+        "back": "Yes"
     }]
 }

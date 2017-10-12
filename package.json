@@ -4,7 +4,8 @@
   "description": "A Basic CLI Flashcard tool.",
   "main": "BasicCard.js",
   "scripts": {
-    "test": "node main"
+    "test": "node app",
+    "start": "node main"
   },
   "repository": {
     "type": "git",
