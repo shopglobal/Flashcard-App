@@ -3,8 +3,8 @@ var fs = require("fs");
 var moment = require("moment");
 var timeStamp = moment().format();
 
-var answers.questionText = "Yo dawg is it working?";
-var answers.answerText = "Hey dawg I heard you already...";
+var answersquestionText = "Yo dawg is it working?";
+var answersanswerText = "Hey dawg I heard you already...";
                     
 fs.readFile("./basic.json", "utf-8", function(err, data) {
                 if (err) throw err;
@@ -12,8 +12,8 @@ fs.readFile("./basic.json", "utf-8", function(err, data) {
                 console.log(arrayOfObjects);
                 arrayOfObjects.basicDeck.push(
                   new BasicCard(
-                    answers.questionText.toUpperCase(),
-                    answers.answerText.toUpperCase()
+                    answersquestionText.toUpperCase(),
+                    answersanswerText.toUpperCase()
                   )
                 );
                 fs.writeFile(
